@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1712269505 source:/home/user/Documents/WORKSPACES/C/ncurses-widgets/button.c
+	"button.h"
+	<ncurses.h>
+	<stdlib.h>
+	<string.h>
+
+1712269487 /home/user/Documents/WORKSPACES/C/ncurses-widgets/button.h
+	<stdbool.h>
+
+1705347252 /usr/include/ncursesw/ncurses.h
+	<ncurses_dll.h>
+	<stdint.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<unctrl.h>
+
+1705347252 /usr/include/ncursesw/ncurses_dll.h
+
+1705347252 /usr/include/ncursesw/unctrl.h
+	<curses.h>
+
+1705347252 /usr/include/ncursesw/curses.h
+	<ncurses_dll.h>
+	<stdint.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<unctrl.h>
+
+1712617796 source:/home/user/Documents/WORKSPACES/C/ncurses-widgets/hscrollbar.c
+	<stdlib.h>
+	"hscrollbar.h"
+	<string.h>
+
+1712616494 /home/user/Documents/WORKSPACES/C/ncurses-widgets/hscrollbar.h
+	<ncurses.h>
+	<stdbool.h>
+
+1712616494 source:/home/user/Documents/WORKSPACES/C/ncurses-widgets/hscrollbar.h
+	<ncurses.h>
+	<stdbool.h>
+
+1712706168 source:/home/user/Documents/WORKSPACES/C/ncurses-widgets/main.c
+	<ncurses.h>
+	<string.h>
+
+1712602014 source:/home/user/Documents/WORKSPACES/C/ncurses-widgets/textbox.c
+	"textbox.h"
+
+1712601859 /home/user/Documents/WORKSPACES/C/ncurses-widgets/textbox.h
+	<ncurses.h>
+	<string.h>
+
+1712622739 source:/home/user/Documents/WORKSPACES/C/ncurses-widgets/hscrollbar2.c
+	"hscrollbar2.h"
+	<ncurses.h>
+
+1712622684 /home/user/Documents/WORKSPACES/C/ncurses-widgets/hscrollbar2.h
+
+1712690547 source:/home/user/Documents/WORKSPACES/C/ncurses-widgets/vscrollbar.c
+	"vscrollbar.h"
+
+1712690484 /home/user/Documents/WORKSPACES/C/ncurses-widgets/vscrollbar.h
+	<ncurses.h>
+
